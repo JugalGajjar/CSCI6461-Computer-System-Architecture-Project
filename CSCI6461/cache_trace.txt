@@ -1,0 +1,9 @@
+Added Item to Cache at Address: 0
+Added Item to Cache at Address: 4
+Added Item to Cache at Address: 8
+Cache Hit! Address: 0
+Cache Hit! Address: 4
+Cache Miss! Address: 12
+Removed item from cache: Address 4
+Cache Miss! Address: 4
+Cache cleared.
